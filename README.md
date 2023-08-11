@@ -1,3 +1,5 @@
+# jdbcBanking
+A banking simulator command line application curated in Java using JDBC
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
